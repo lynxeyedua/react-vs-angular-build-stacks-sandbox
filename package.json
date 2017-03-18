@@ -1,0 +1,8 @@
+{
+  "name": "react-vs-angular-build-stacks-sandbox",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:lynxeyedua/react-vs-angular-build-stacks-sandbox.git",
+  "author": "Serhii M. <lynxeyedua@gmail.com>",
+  "license": "MIT"
+}

@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "main": "index.js",
   "license": "MIT",
+  "scripts": {
+    "start": "webpack --watch | webpack-dev-server --hot"
+  },
   "dependencies": {
     "@types/react": "^15.0.16",
     "@types/react-dom": "^0.14.23",
@@ -13,6 +16,7 @@
     "awesome-typescript-loader": "^3.1.2",
     "source-map-loader": "^0.2.0",
     "typescript": "^2.2.1",
-    "webpack": "^2.2.1"
+    "webpack": "^2.2.1",
+    "webpack-dev-server": "^2.4.2"
   }
 }
